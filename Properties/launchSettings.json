@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_function_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7037",
+      "launchBrowser": false
+    }
+  }
+}
